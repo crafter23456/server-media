@@ -1,0 +1,15 @@
+{
+  "server_name": "coastermc",
+  "nice_name": "CoasterMC",
+  "direct_ip": "vreecoaster.de",
+  "server_wildcards": [
+    "%.vreecoaster.de",
+  ],
+  "social": {
+    "web": "https://vreecoaster.de",
+    "twitter": "https://twitter.com/VreecoasterD",
+    "discord": "https://discord.vreecoaster.de"
+	"web_shop": "https://shop.vreecoaster.de"
+  },
+  "user_stats": "https://laby.net/@{userName}"
+}
